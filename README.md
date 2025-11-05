@@ -72,6 +72,6 @@ Pranav Raj
 
 Linkdin Profile :- www.linkedin.com/in/pranav-raj910
 
-GitHub Profile :- github.com/pranav603
+GitHub Profile :- https://github.com/pranav603
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
