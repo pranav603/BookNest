@@ -33,7 +33,8 @@ It allows users to browse, explore, and purchase their favorite books through an
 
 ## 📸 Preview
 
-![BookNest Preview](https://raw.githubusercontent.com/pranav603/BookNest/main/preview.png)
+![BookNest Preview](./Preview.png)
+
 
 ## ⚙️ Installation & Setup
 
